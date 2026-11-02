@@ -1,0 +1,17 @@
+# Binarios y modelos pesados (van en el ZIP de Releases)
+bin/
+lib/
+models/
+assets/models/
+*.zip
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+.env
+config.json
+
+# Audios temporales generados por el juego
+coach_voice*.wav
+test*.wav
+prueba*.wav
